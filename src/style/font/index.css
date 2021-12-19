@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap");
+
+/* @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;900&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap");
+
+@import url("./JSChusri/stylesheet.css");
+
+@import url("./ElMessiri/stylesheet.css");
+
+@font-face {
+  font-family: "Strong Sword";
+  src: url("https://s1.pearlcdn.com/global_static/font/web/web_pearl_original.woff2") format("woff2"),
+    url("https://s1.pearlcdn.com/global_static/font/web/web_pearl_original.woff") format("woff"),
+    url("https://s1.pearlcdn.com/global_static/font/web/web_pearl_original.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Strong Sword Text";
+  src: url("https://s1.pearlcdn.com/global_static/font/web/web_pearl_others.woff2") format("woff2"),
+    url("https://s1.pearlcdn.com/global_static/font/web/web_pearl_others.woff") format("woff"),
+    url("https://s1.pearlcdn.com/global_static/font/web/web_pearl_others.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
